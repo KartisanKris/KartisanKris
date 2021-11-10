@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive Programing
 - 🌱 I’m currently learning DSA
 - 💞️ 
-- 📫 How to reach me @dup0517@gmail.com
+- 📫 How to reach me @korigkk@gmail.com
 
 <!---
 KartisanKris/KartisanKris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

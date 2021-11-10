@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KartisanKris
-- 👀 I’m interested in Competitive Programing
+- 👋 Hi, I’m Krishna
+- 👀 I’m interested in Coding and Trading
 - 🌱 I’m currently learning DSA
-- 💞️ 
+
 - 📫 How to reach me @korigkk@gmail.com
 
 <!---
